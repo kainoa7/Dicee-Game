@@ -13,7 +13,7 @@ Welcome to the Dicee Game! This is a simple web-based game where two players rol
 
 ## Demo
 
-You can check out the live demo of the Dicee Game [here](#https://kainoa7.github.io/Dicee-Game/).
+You can check out the live demo of the Dicee Game [here](https://kainoa7.github.io/Dicee-Game/).
 
 ## Features
 
